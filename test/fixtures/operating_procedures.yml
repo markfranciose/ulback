@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  op_number: MyString
+  title: MyString
+  file_url: MyString
+
+two:
+  op_number: MyString
+  title: MyString
+  file_url: MyString

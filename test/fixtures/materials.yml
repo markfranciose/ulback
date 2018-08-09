@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  material_type: MyString
+  vendor: MyString
+  process: MyString
+  file_url: MyString
+
+two:
+  material_type: MyString
+  vendor: MyString
+  process: MyString
+  file_url: MyString
